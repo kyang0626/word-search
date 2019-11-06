@@ -1,0 +1,5 @@
+/Users/kongyang/Documents/GitHub/word-search/WordSearch/WordSearch/bin/Debug/WordSearch.exe
+/Users/kongyang/Documents/GitHub/word-search/WordSearch/WordSearch/bin/Debug/WordSearch.pdb
+/Users/kongyang/Documents/GitHub/word-search/WordSearch/WordSearch/obj/Debug/WordSearch.csprojAssemblyReference.cache
+/Users/kongyang/Documents/GitHub/word-search/WordSearch/WordSearch/obj/Debug/WordSearch.exe
+/Users/kongyang/Documents/GitHub/word-search/WordSearch/WordSearch/obj/Debug/WordSearch.pdb
